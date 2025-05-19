@@ -16,7 +16,8 @@ Approach:
 •	Sort by total deposits in descending order.
 
 Challenges: 
-Too many Column in the data set 
+1. Too many Column in the data set 
+2. NAme Column is null; I had to use Concat to combine the first_name and Last_Name as Name  
 
 
 **Question 2
